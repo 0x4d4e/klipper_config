@@ -1,7 +1,8 @@
 # klipper\_config
 
-[klipper](https://github.com/KevinOConnor/klipper) configuration for the Ender3 Pro (stock/Creality 1.1.5 mainboard), used with [fluidd](https://github.com/cadriel/fluidd).
+NOTE: Work in progress. I updated to the BTT SRK Mini E3 v2 and converted the Ender to a SwitchWire. Not everything here is final/stable!
 
-* Based on `printer-creality-ender3-2018.cfg`
+[klipper](https://github.com/KevinOConnor/klipper) configuration for the Voron SwitchWire with BTT SKR Mini E3 V2, used with [fluidd](https://github.com/cadriel/fluidd).
+
 * Configs + macros as required by [fluidd](https://github.com/cadriel/fluidd)
-* Manual mesh leveling enabled and leveling menu items
+* Manual mesh leveling enabled and leveling menu items (no longer used)
